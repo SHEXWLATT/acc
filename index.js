@@ -462,10 +462,10 @@ user_24.on('ready', () => {
 });
 // ==============================================
 
-user_1.login('');
-user_2.login('');
-user_3.login('');
-user_4.login('');
+user_1.login('MTAxOTEyMTI1OTM2OTQ4MDIyMw.GfE_jn.mD1UVV2tt9u_Bs3ymWiSp71n3cKfPQqHGSslDE');
+user_2.login('MTAxOTEyMDc3ODY3Mjg3MzQ5Mg.GnMyXL.EJ5pDDN82n4nqRmiHY9HNZyovBtAMMUtxTGD-Q');
+user_3.login('MTAxOTEyMDA2NDUzODA5NTcyOQ.GROoK2.6OtCj4fK8MFppGt5HxrTvFABMU13tHJi47-iYM');
+user_4.login('MTAxOTExODEyMTgyODc2MTYzMg.GYv4Rl.1o5HxHvrGLX5ldvXYYWfumyJdkxqwkn-7agxzI');
 user_5.login('');
 user_6.login('');
 user_7.login('');
