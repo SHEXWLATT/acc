@@ -11,10 +11,10 @@ app.listen(port, () =>
 // =============== Bot ===============
 
 const Discord = require('discord.js-self');
-const user_1 = new Discord.Client();
-const user_2 = new Discord.Client();
-const user_3 = new Discord.Client();
-const user_4 = new Discord.Client();
+const user_1 = new Discord.Client(MTAxOTEyMTQ5NTYyNjIzNTk2NQ.GbJb57.DhEZXf2EKKp8sRsTe2zBOXb_7C43DrA8KolliI);
+const user_2 = new Discord.Client(MTAxOTEyMDA2NDUzODA5NTcyOQ.GROoK2.6OtCj4fK8MFppGt5HxrTvFABMU13tHJi47-iYM);
+const user_3 = new Discord.Client(MTAxOTEyMDc3ODY3Mjg3MzQ5Mg.GnMyXL.EJ5pDDN82n4nqRmiHY9HNZyovBtAMMUtxTGD-Q);
+const user_4 = new Discord.Client(MTAxOTEyMTI1OTM2OTQ4MDIyMw.GfE_jn.mD1UVV2tt9u_Bs3ymWiSp71n3cKfPQqHGSslDE);
 const user_5 = new Discord.Client();
 const user_6 = new Discord.Client();
 const user_7 = new Discord.Client();
